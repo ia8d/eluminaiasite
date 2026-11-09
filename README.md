@@ -1,4 +1,4 @@
-# ⚡ Elumina IA - Corporate Website & Blog Engine
+# ♾️ Elumina IA - Corporate Website & Blog Engine
 
 Site institucional e motor de blog da **Elumina IA**, projetado para atuar como o principal canal de conversão B2B da empresa. A arquitetura foi desenhada propositalmente sem o uso de frameworks pesados (Zero-Framework Approach) para garantir tempo de carregamento (TTFB) próximo a zero e máxima otimização de SEO.
 
